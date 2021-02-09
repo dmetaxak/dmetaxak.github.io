@@ -42,7 +42,7 @@ I have several ongoing threads of research, mainly focusing on bias and represen
 </center>
 
 **[An Image of Society: Gender and Racial Representation and Impact in Image Search Results for Occupations][image society]**\
-**Danaë Metaxa**, Michelle Gan, Su Goh, James Landay, and Jeff Hancock. _In submission (R&R) to CSCW21_
+**Danaë Metaxa**, Michelle Gan, Su Goh, James Landay, and Jeff Hancock. _(ACM CSCW 2021)_
 
 Visual diversity has been the subject of studies in domains like psychology and advertising. But unlike the purposeful persuasive intent behind advertising, algorithmic content like search engine results are compiled automatically and spontaneously in response to user queries. Regardless of intent, the impact on users—say, a young person of color looking for information about their desired career and finding a sea of white faces—may still be substantial. **Do image search results accurately reflect real-world gender and racial diversity? How does visual diversity influence users?**
 
@@ -59,7 +59,7 @@ In this project, currently in submission, we conducted an audit examining the re
 </center>
 
 **[Gender-Inclusive Design: Belonging and Bias in Web Interfaces][ambient belonging]**\
-**Danaë Metaxa**, Kelly Wang, James Landay, and Jeff Hancock. (ACM CHI 2018)
+**Danaë Metaxa**, Kelly Wang, James Landay, and Jeff Hancock. _(ACM CHI 2018)_
 
 Psychology theory suggests that people's ambient environments can cue stereotypes and influence their sense of belonging. Do digital spaces also impact self perception and choices? To answer this question, we ran a randomized controlled experiment to investigate, designing two different versions of a computer science course webpage altering only the aesthetics of the page but not its content. College-aged participants were either exposed to a course page with a neutral theme (i.e., images of trees, standard sans serif fonts) or one designed to evoke stereotypical ideas of computer science (i.e., star trek imagery, green text on a black background resembling a computer console). We found that, while men showed little preference for either website, women were negatively impacted by the stereotypical interface—they were less likely to feel they belonged in the course, less optimistic about their future performance, less interested in taking the course, and less interested in studying computer science at all. On the whole, women were 20% less likely to want to enroll in the course, a deterring effect of about twice that on men. This work uses gender bias as a case study supporting literature from psychology and translating it to a digital context; biases in online content can significantly impact users’ psychological sense of belonging, beliefs about themselves, and expected future behaviors. 
 
@@ -80,7 +80,7 @@ For a complete list of my academic publications, see my [Google Scholar page][sc
 
 [Random, Messy, Funny, Raw: Finstas as Intimate Reconfigurations of Social Media][finsta]\
 _Best Paper Honorable Mention_\
-Sijia Xiao, **Danaë Metaxa**, Joon Sung Park, Karrie Karahalios, and Niloufar Salehi (ACM CHI 2020)
+Sijia Xiao, **Danaë Metaxa**, Joon Sung Park, Karrie Karahalios, and Niloufar Salehi _(ACM CHI 2020)_
 
 [Search Media and Elections: A Longitudinal Investigation of Political Search Results in the 2018 U.S. Elections][search media]\
 **Danaë Metaxa**, Joon Sung Park, James Landay, and Jeff Hancock (ACM CSCW 2019)
