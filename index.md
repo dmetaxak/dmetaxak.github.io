@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## I'm on the academic job market this year!
+🎉 Exciting news! I couldn't be happier to announce that I've accepted an assistant professor position at the University of Pennsylvania in the [Computer and Information Science department][penncis], with a secondary appointment in the [Annenberg School for Communication][pennasc]. I'll begin in Fall 2022, and [Andrew Head][amh] and I will be the founding faculty members of the Penn HCI group. **Prospective students: send us an email!** In the meantime, I am joining Stanford's [Center of Philanthropy and Civil Society][pacs] as a postdoctoral scholar with the [Program on Democracy and the Internet][pdi]. 
 
 I'm a sixth year Ph.D. candidate in [Computer Science][cs] at [Stanford University][stanford] in the [Human-Computer Interaction Group][hci], co-advised by [James Landay][landay] (Computer Science) and [Jeff Hancock][hancock] (Communication). In my research, I develop and deploy methods for studying **bias and representation in algorithms and algorithmic content**, focusing on high-stakes social settings like politics and employment, and on the experiences of maginalized people. 
 
@@ -11,6 +11,11 @@ I'm a sixth year Ph.D. candidate in [Computer Science][cs] at [Stanford Universi
 [hci]:http://hci.stanford.edu/
 [hancock]: http://jeff-hancock.com
 [landay]: https://profiles.stanford.edu/james-landay
+[penncis]: https://www.cis.upenn.edu
+[pennasc]: https://www.asc.upenn.edu
+[pacs]: https://pacscenter.stanford.edu
+[pdi]: https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/
+[amh]: http://andrewhead.info
 
 Projects I've worked on include gender and race representation in search algorithms (_in submission_), [stereotypes and inclusivity in web interfaces][gender-inclusive], [the role of search media in elections][search media], and [social capital during disaster events][disasters].
 
