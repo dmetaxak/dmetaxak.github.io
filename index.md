@@ -9,7 +9,7 @@ I'm a sixth year Ph.D. candidate in [Computer Science][cs] at [Stanford Universi
 [cs]: http://www-cs.stanford.edu/
 [stanford]: https://www.stanford.edu/
 [hci]:http://hci.stanford.edu/
-[hancock]: http://jeff-hancock.com
+[hancock]: https://comm.stanford.edu/faculty-hancock/
 [landay]: https://profiles.stanford.edu/james-landay
 [penncis]: https://www.cis.upenn.edu
 [pennasc]: https://www.asc.upenn.edu
