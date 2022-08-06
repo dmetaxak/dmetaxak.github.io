@@ -16,3 +16,13 @@ In their research, Dr. Metaxa develops and deploys methods for studying **bias a
 [pdi]: https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/
 [amh]: http://andrewhead.info
 [pennhci]: https://pennhci.org
+
+### PhD Students
+Princess Sampson  
+[Ro Encarnacion][ro]
+
+[ro]: http://roencarnacion.com
+
+### Updates
+
+**08/2022** - I'll be teaching an introductory HCI special topics course (CIS 399) at Penn for undergraduates this fall.
