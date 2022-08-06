@@ -18,10 +18,11 @@ In their research, Dr. Metaxa develops and deploys methods for studying **bias a
 [pennhci]: https://pennhci.org
 
 ### PhD Students
-Princess Sampson  
+[Princess Sampson][psamp]  
 [Ro Encarnacion][ro]
 
 [ro]: http://roencarnacion.com
+[psamp]: https://www.linkedin.com/in/pdotsamp?trk=people-guest_people_search-card
 
 ### Updates
 
