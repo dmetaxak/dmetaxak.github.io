@@ -22,7 +22,7 @@ In their research, Dr. Metaxa develops and deploys methods for studying **bias a
 [Ro Encarnacion][ro]
 
 [ro]: http://roencarnacion.com
-[psamp]: https://www.linkedin.com/in/pdotsamp?trk=people-guest_people_search-card
+[psamp]: https://psamp.github.io
 
 ### Updates
 
