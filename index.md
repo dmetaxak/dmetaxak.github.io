@@ -23,10 +23,11 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 - [Princess Sampson][psamp]  
 - [Ro Encarnacion][ro]  
 - Stephanie Wang  
-- Ekaterina Fedorova
+- [Ekaterina Fedorova][kat]
 
 [ro]: http://roencarnacion.com
 [psamp]: https://psamp.github.io
+[kat]: https://ek8terina.github.io/opossum_girlie/
 
 <!-- ### News
 
