@@ -22,26 +22,34 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 ### PhD Students
 - [Princess Sampson][psamp]  
 - [Ro Encarnacion][ro]  
-- Stephanie Wang  
+- [Stephanie Wang][steph]  
 - [Ekaterina Fedorova][kat]
 
 [ro]: http://roencarnacion.com
 [psamp]: https://psamp.github.io
 [kat]: https://ek8terina.github.io/opossum_girlie/
+[steph]: https://steph-w.github.io
 
-<!-- ### News
+### News
 
-**08/2022** - I'll be teaching an introductory HCI special topics course (CIS 399) at Penn for undergraduates this fall.
- -->
+**04/2024** - All four of PennHCI's [NSF GRFP][nsf] applicants were funded this year! Huge congratulations to our PhD students [Princess][psamp], [Ro][ro], [Hita][hita], and post-bac RA (soon-to-be Harvard PhD student) [Lena][lena]! 
+
+[nsf]: http://nsfgrfp.org
+[hita]: https://hita-k.github.io
+[lena]: https://lenaarmstrong.github.io
+
+
 ### Teaching
 
-**Fall 2023** - [CIS412/512: Human-Computer Interaction][cis412]
+**Sp 2024** - [CIS700: Algorithmic Justice][cis700]
 
-**Spring 2023** - [CIS700: Algorithmic Justice][cis700]
+**Fa 2023** - [CIS412/512: Human-Computer Interaction][cis412]
 
-**Fall 2022** - CIS399: Human-Computer Interaction
+**Sp 2023** - [CIS700: Algorithmic Justice][cis700]
 
-**Spring 2021** - [CS347: Human-Computer Interaction Research][cs347] (co-taught with Parastoo Abtahi)
+**Fa 2022** - CIS399: Human-Computer Interaction
+
+**Sp 2021** - [CS347: Human-Computer Interaction Research][cs347] (co-taught with Parastoo Abtahi)
 
 [cis700]: https://docs.google.com/spreadsheets/d/1YltJ1qnpPjovlEPOut8ctjXt_kyHSEWfpcX8lAddmKI/edit#gid=565474215
 [cis412]: http://emoneil.github.io/cis3990/
