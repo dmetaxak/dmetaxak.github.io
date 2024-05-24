@@ -38,6 +38,11 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 [hita]: https://hita-k.github.io
 [lena]: https://lenaarmstrong.github.io
 
+### Student FAQs
+
+If you're a student (at UPenn or elsewhere) with a question related to my teaching or research, please make sure to read [my FAQ][faq] before sending an email! 
+
+[faq]: /faq
 
 ### Teaching
 
@@ -54,3 +59,4 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 [cis700]: https://docs.google.com/spreadsheets/d/1YltJ1qnpPjovlEPOut8ctjXt_kyHSEWfpcX8lAddmKI/edit#gid=565474215
 [cis412]: http://emoneil.github.io/cis3990/
 [cs347]: http://cs347.stanford.edu
+
