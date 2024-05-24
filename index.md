@@ -46,17 +46,18 @@ If you're a student (at UPenn or elsewhere) with a question related to my teachi
 
 ### Teaching
 
-**Sp 2024** - [CIS700: Algorithmic Justice][cis700]
+**Sp 2024** - [CIS700: Algorithmic Justice][cis700_24]
 
 **Fa 2023** - [CIS412/512: Human-Computer Interaction][cis412]
 
-**Sp 2023** - [CIS700: Algorithmic Justice][cis700]
+**Sp 2023** - [CIS700: Algorithmic Justice][cis700_23]
 
 **Fa 2022** - CIS399: Human-Computer Interaction
 
 **Sp 2021** - [CS347: Human-Computer Interaction Research][cs347] (co-taught with Parastoo Abtahi)
 
-[cis700]: https://docs.google.com/spreadsheets/d/1YltJ1qnpPjovlEPOut8ctjXt_kyHSEWfpcX8lAddmKI/edit#gid=565474215
+[cis700_24]:https://docs.google.com/spreadsheets/d/1kdrDQTz_6gQfD3v3UMSMkoAS2DanxyZDTqcP59C024o/edit#gid=1882189647
+[cis700_23]:https://docs.google.com/spreadsheets/d/1YltJ1qnpPjovlEPOut8ctjXt_kyHSEWfpcX8lAddmKI/edit#gid=565474215
 [cis412]: http://emoneil.github.io/cis3990/
 [cs347]: http://cs347.stanford.edu
 
