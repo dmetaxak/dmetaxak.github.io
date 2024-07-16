@@ -7,12 +7,10 @@ title: FAQ
 
 I don't have time to respond individually to every email I receive, but do receive many emails on the same topics --- so here's a page of frequently asked questions to spare your time and my inbox. Apologies in advance that I won't respond to emails answered by the below (but if your question isn't answered, do reach out!) -DM
 
-## Course-related
-
-### I want to take your HCI course! Can you please take me off the waitlist?
-My understanding of undergraduate/Master's course enrollment (while admittedly relatively limited --- you should speak instead with department advising staff!) is that CIS majors have enrollment priority. For other students, my general waitlist policy is to admit everyone off the waitlist and give everyone an equal chance to grab the remaining spots. Once the class is full, there's nothing else I can do (we're constrained by the size of the classroom), so please don't email me. You might instead keep checking the enrollment and see if you can grab an open spot if someone drops! 
-
 ## Research-related
+
+### Are you accepting new PhD students this cycle (to start Fall '25)?
+Yes! You do not need to reach out in advance --- if you put my name down as your top choice of advisor on Penn's application, I can guarantee I will read your application. If you do want to reach out, please make sure the email says something specific about why you want to work with me, and includes your CV and transcripts. 
 
 ### I'm a UPenn student looking for a Senior Design Project or Honors Thesis advisor. Can you advise me?
 My rule on advising senior projects is that, due to time constraints, I will only advise serious research projects that are aimed at publication. This means you'll need a lot of time --- probably multiple semesters, or possibly one semester during which you're not taking any other courses. If this still sounds like what you're looking for, send me an email and we can chat. 
@@ -28,6 +26,11 @@ I do not take students below the college level (in age _and_ educational experie
 
 ### When is the best time to reach out if I'm interested in doing a summer internship in your group? 
 Please reach out the winter (say, January or February) of the year you're interested in doing the internship. I get a lot of requests in May and June, at which point summer has already started (or is about to), projects have been planned, and the budget has been budgeted. 
+
+## Course-related
+
+### I want to take your HCI course! Can you please take me off the waitlist?
+My understanding of undergraduate/Master's course enrollment (while admittedly relatively limited --- you should speak instead with department advising staff!) is that CIS majors have enrollment priority. For other students, my general waitlist policy is to admit everyone off the waitlist and give everyone an equal chance to grab the remaining spots. Once the class is full, there's nothing else I can do (we're constrained by the size of the classroom), so please don't email me. You might instead keep checking the enrollment and see if you can grab an open spot if someone drops! 
 
 ## Miscellaneous
 
