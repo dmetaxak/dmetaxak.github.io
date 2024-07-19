@@ -32,6 +32,8 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 
 ### News
 
+**06/2024** - FAccT 2025 will be held in Athens, Greece! I will be one of the General Chairs; if you are a graduate student (particularly one located in Athens) interested in a paid RA role, please email me. 
+
 **04/2024** - All four of PennHCI's [NSF GRFP][nsf] applicants were funded this year! Huge congratulations to our PhD students [Princess][psamp], [Ro][ro], [Hita][hita], and post-bac RA (soon-to-be Harvard PhD student) [Lena][lena]! 
 
 [nsf]: http://nsfgrfp.org
