@@ -12,6 +12,8 @@ I don't have time to respond individually to every email I receive, but do recei
 ### Are you accepting new PhD students this cycle (to start Fall '25)?
 Yes! You do not need to reach out in advance --- if you put my name down as your top choice of advisor on Penn's application, I can guarantee I will read your application. If you do want to reach out, please make sure the email says something specific about why you want to work with me, and includes your CV and transcripts. 
 
+ALSO: make sure the research you're interested in lists me as the last author. In most cases, this means I'm the PI of that project. Otherwise, you might be writing me a beautiful paragraph about how interested you are in someone else's work :)
+
 ### I'm a UPenn student looking for a Senior Design Project or Honors Thesis advisor. Can you advise me?
 My rule on advising senior projects is that, due to time constraints, I will only advise serious research projects that are aimed at publication. This means you'll need a lot of time --- probably multiple semesters, or possibly one semester during which you're not taking any other courses. If this still sounds like what you're looking for, send me an email and we can chat. 
 
