@@ -23,12 +23,14 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 - [Princess Sampson][psamp]  
 - [Ro Encarnacion][ro]  
 - [Stephanie Wang][steph]  
-- [Ekaterina Fedorova][kat]
+- [Ekaterina Fedorova][kat] (co-advised with Chara Podimata, MIT Sloan)
+- [Mialy Rasetarinera][mialy] (co-advised with Konrad Kording, Penn Bioengineering)
 
 [ro]: http://roencarnacion.com
 [psamp]: https://psamp.github.io
 [kat]: https://ek8terina.github.io/opossum_girlie/
 [steph]: https://steph-w.github.io
+[mialy]: https://www.linkedin.com/in/mialy-rasetarinera/
 
 ### News
 
@@ -42,7 +44,7 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 
 ### Student FAQs
 
-If you're a student (at UPenn or elsewhere) with a question related to my teaching or research, please make sure to read [my FAQ][faq] before sending an email! 
+If you're a student (at UPenn or elsewhere) with a question related to my teaching or research, please make sure to read [my FAQ][faq] before sending an email.
 
 [faq]: /faq
 
