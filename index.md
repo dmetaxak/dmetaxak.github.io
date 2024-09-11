@@ -30,7 +30,7 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 [psamp]: https://psamp.github.io
 [kat]: https://ek8terina.github.io/opossum_girlie/
 [steph]: https://steph-w.github.io
-[mialy]: https://www.linkedin.com/in/mialy-rasetarinera/
+[mialy]: https://mialynr.github.io/
 
 ### News
 
