@@ -19,6 +19,8 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 [pennhci]: https://pennhci.org
 [sta]: https://hci.stanford.edu/publications/2023/Lam_STA_CSCW23.pdf
 
+---
+
 ### PhD Students
 - [Princess Sampson][psamp]  
 - [Ro Encarnacion][ro]  
@@ -32,21 +34,28 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 [steph]: https://steph-w.github.io
 [mialy]: https://mialynr.github.io/
 
-### News
+### Other Students 
+I also work closely with a number of other students, including:
+- [Luis Morales-Navarro][luis], Penn Graduate School of Education PhD student
+- [Lena Armstrong][lena], Penn '23 and incoming Harvard CS PhD student
+- [Shengchun Huang][sc], Penn Annenberg PhD student
+- [Kowe Kadoma][kowe], Cornell Tech Information Science PhD student
 
-**06/2024** - FAccT 2025 will be held in Athens, Greece! I will be one of the General Chairs; if you are a graduate student (particularly one located in Athens) interested in a paid RA role, please email me. 
-
-**04/2024** - All four of PennHCI's [NSF GRFP][nsf] applicants were funded this year! Huge congratulations to our PhD students [Princess][psamp], [Ro][ro], [Hita][hita], and post-bac RA (soon-to-be Harvard PhD student) [Lena][lena]! 
-
-[nsf]: http://nsfgrfp.org
-[hita]: https://hita-k.github.io
+[luis]: http://luismn.com
+[sc]: https://www.asc.upenn.edu/people/graduate-student/shengchun-huang
 [lena]: https://lenaarmstrong.github.io
+[kowe]: https://kadomak.github.io
+[victor]: https://victorojewale.github.io
+[hita]: https://hita-k.github.io
 
-### Student FAQs
+---
+### Penn and Prospective Student FAQs
 
-If you're a student (at UPenn or elsewhere) with a question related to my teaching or research, please make sure to read [my FAQ][faq] before sending an email.
+If you're a student (at Penn or elsewhere) with a question related to my teaching or research, please make sure to read [my FAQ][faq] before sending an email.
 
 [faq]: /faq
+
+---
 
 ### Teaching
 
