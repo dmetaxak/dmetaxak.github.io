@@ -10,7 +10,7 @@ I don't have time to respond individually to every email I receive, but do recei
 ## Research-related
 
 ### Are you accepting new PhD students this cycle (to start Fall '25)?
-Yes! You do not need to reach out in advance --- if you put my name down as your top choice of advisor on Penn's application, I can guarantee I will read your application. If you do want to reach out, please make sure the email says something specific about why you want to work with me, and includes your CV and transcripts. 
+Yes! You do not need to reach out in advance --- if you put my name down as your top choice of advisor on Penn's application, I can guarantee I will read your application. If you do want to reach out, please make sure the email says something specific about why you want to work with me, and includes your CV and transcripts, but also please note that I likely will not have time to respond personally. If I am seriously considering your application, I will reach out to schedule a time to interview you, usually in January-February. 
 
 ALSO: make sure the research you're interested in lists me as the last author. In most cases, this means I'm the PI of that project. Otherwise, you might be writing me a beautiful paragraph about how interested you are in someone else's work :)
 
