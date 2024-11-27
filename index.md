@@ -20,6 +20,13 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 [sta]: https://hci.stanford.edu/publications/2023/Lam_STA_CSCW23.pdf
 
 ---
+### Postdoc Search: Civil Rights AI Audits
+[Dr. Sorelle Frielder][sorelle] (Haverford College) seek a postdoctoral scholar to be based at the University of Pennsylvania, conducting civil rights-focused audits of AI. For more information or to apply, [see our call here][call]. 
+
+[sorelle]: http://sorelle.friedler.net
+[call]: postdoc
+
+---
 
 ### PhD Students
 - [Princess Sampson][psamp]  
