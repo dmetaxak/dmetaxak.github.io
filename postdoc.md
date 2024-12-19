@@ -3,9 +3,9 @@ layout: default
 title: Postdoc
 ---
 
-# Call for Postdoctoral Scholar: Civil Rights AI Audits
+# (CALL CLOSED) Postdoctoral Scholar: Civil Rights AI Audits
 
-*Updated: 27 November 2024*
+*Updated: 19 December 2024*
 
 The University of Pennsylvania invites applications for an **18-month Postdoctoral Research Scholar** position in the School of Engineering’s Computer and Information Science Department. The postdoctoral fellow will work on a Ford Foundation-funded project focused on **civil rights-focused audits of AI**. Audited systems could include automated decision systems, online platforms, generative AI systems, and others. 
 
