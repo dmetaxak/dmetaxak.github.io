@@ -23,7 +23,7 @@ Prior to joining Penn, Dr. Metaxa was a postdoctoral scholar with the Stanford [
 
 ### PhD Students
 - [Princess Sampson][psamp]  
-- [Ro Encarnacion][ro]  
+- [Ro Encarnación][ro]  
 - [Stephanie Wang][steph]  
 - [Ekaterina Fedorova][kat] (co-advised with Chara Podimata, MIT Sloan)
 - [Mialy Rasetarinera][mialy] (co-advised with Konrad Kording, Penn Bioengineering)
