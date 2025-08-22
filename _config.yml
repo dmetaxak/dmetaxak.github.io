@@ -18,6 +18,7 @@ exclude:
     - package.json
     - bower.json
     - drafts
+    - vendor
 
 navigation:
     - title: about

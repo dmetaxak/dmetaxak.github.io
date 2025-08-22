@@ -1,0 +1,18 @@
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/danaemetaxa/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250822-8601-bwxut7 sitelibdir\=./.gem.20250822-8601-bwxut7 clean
+
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250822-8601-bwxut7 sitelibdir\=./.gem.20250822-8601-bwxut7
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250822-8601-bwxut7 sitelibdir\=./.gem.20250822-8601-bwxut7 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250822-8601-bwxut7/racc
+
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250822-8601-bwxut7 sitelibdir\=./.gem.20250822-8601-bwxut7 clean

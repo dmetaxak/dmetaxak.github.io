@@ -1,0 +1,19 @@
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/danaemetaxa/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250822-8601-ggua6q sitelibdir\=./.gem.20250822-8601-ggua6q clean
+
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250822-8601-ggua6q sitelibdir\=./.gem.20250822-8601-ggua6q
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250822-8601-ggua6q sitelibdir\=./.gem.20250822-8601-ggua6q install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20250822-8601-ggua6q
+
+current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250822-8601-ggua6q sitelibdir\=./.gem.20250822-8601-ggua6q clean
