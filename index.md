@@ -39,6 +39,7 @@ Prior to joining Penn, Dr. Metaxa received a Ph.D. in [Computer Science][stanfor
 ### Other Students 
 I also work closely with a number of other students, including:
 - [Luis Morales-Navarro][luis], Penn Graduate School of Education PhD student
+- [Daniel J. Noh][daniel], Penn Graduate School of Education PhD student
 - [Lena Armstrong][lena], Penn '23 and Harvard CS PhD student
 - [Kowe Kadoma][kowe], Cornell Tech Information Science PhD student
 
@@ -48,6 +49,8 @@ I also work closely with a number of other students, including:
 [kowe]: https://kadomak.github.io
 [victor]: https://victorojewale.github.io
 [hita]: https://hita-k.github.io
+[daniel]: https://www.danieljnoh.com
+
 
 ---
 ### Penn and Prospective Student FAQs
