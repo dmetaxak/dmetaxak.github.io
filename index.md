@@ -24,12 +24,14 @@ Prior to joining Penn, Dr. Metaxa received a Ph.D. in [Computer Science][stanfor
 
 ### PhD Students and Postdocs
 - [Emma Lurie][emma], Postdoctoral scholar
-- [Princess Sampson][psamp], PhD student
+- [Alejandra Regla-Vargas][alejandra], Postdoctoral scholar
 - [Ro Encarnación][ro], PhD student
 - [Stephanie Wang][steph], PhD student
+- [Princess Sampson][psamp], PhD student
 - [Mialy Rasetarinera][mialy], PhD student (co-advised with Konrad Kording)
 
 [emma]: http://emmalurie.github.io
+[alejandra]: https://github.com/aregla
 [ro]: http://roencarnacion.com
 [psamp]: https://psamp.github.io
 [kat]: https://ek8terina.github.io/opossum_girlie/
