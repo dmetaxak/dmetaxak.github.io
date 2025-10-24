@@ -173,7 +173,7 @@ DYLD_LIBRARY_PATH=.:/Users/danaemetaxa/.rbenv/versions/3.3.0/lib "clang -o conft
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 Undefined symbols for architecture arm64:
   "_rb_thread_blocking_region", referenced from:
-      _t in conftest-40c9be.o
+      _t in conftest-f8cc4d.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -340,7 +340,7 @@ DYLD_LIBRARY_PATH=.:/Users/danaemetaxa/.rbenv/versions/3.3.0/lib "clang -o conft
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 Undefined symbols for architecture arm64:
   "_rb_enable_interrupt", referenced from:
-      _t in conftest-6a2831.o
+      _t in conftest-d62bf3.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -524,7 +524,7 @@ DYLD_LIBRARY_PATH=.:/Users/danaemetaxa/.rbenv/versions/3.3.0/lib "clang -o conft
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 Undefined symbols for architecture arm64:
   "_pipe2", referenced from:
-      _t in conftest-60de20.o
+      _t in conftest-7726a8.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -581,7 +581,7 @@ DYLD_LIBRARY_PATH=.:/Users/danaemetaxa/.rbenv/versions/3.3.0/lib "clang -o conft
 ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 Undefined symbols for architecture arm64:
   "_accept4", referenced from:
-      _t in conftest-bc245e.o
+      _t in conftest-6cf2e3.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

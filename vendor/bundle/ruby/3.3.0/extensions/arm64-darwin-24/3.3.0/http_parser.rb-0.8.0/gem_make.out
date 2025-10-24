@@ -3,10 +3,10 @@ current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/ven
 creating Makefile
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-4kfq3c sitelibdir\=./.gem.20250822-8601-4kfq3c clean
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-1y3iz7 sitelibdir\=./.gem.20251024-18888-1y3iz7 clean
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-4kfq3c sitelibdir\=./.gem.20250822-8601-4kfq3c
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-1y3iz7 sitelibdir\=./.gem.20251024-18888-1y3iz7
 compiling ruby_http_parser.c
 ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
   365 |     if (nparsed < len)
@@ -16,8 +16,8 @@ compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.bundle
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-4kfq3c sitelibdir\=./.gem.20250822-8601-4kfq3c install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20250822-8601-4kfq3c
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-1y3iz7 sitelibdir\=./.gem.20251024-18888-1y3iz7 install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20251024-18888-1y3iz7
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-4kfq3c sitelibdir\=./.gem.20250822-8601-4kfq3c clean
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-1y3iz7 sitelibdir\=./.gem.20251024-18888-1y3iz7 clean

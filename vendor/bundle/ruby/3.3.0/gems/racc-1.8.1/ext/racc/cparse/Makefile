@@ -13,12 +13,12 @@ NULLCMD = :
 #### Start of system configuration section. ####
 
 srcdir = .
-topdir = /Users/metaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0
+topdir = /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0
 hdrdir = $(topdir)
-arch_hdrdir = /Users/metaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/arm64-darwin22
+arch_hdrdir = /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/arm64-darwin24
 PATH_SEPARATOR = :
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
-prefix = $(DESTDIR)/Users/metaxa/.rbenv/versions/3.3.0
+prefix = $(DESTDIR)/Users/danaemetaxa/.rbenv/versions/3.3.0
 rubysitearchprefix = $(rubylibprefix)/$(sitearch)
 rubyarchprefix = $(rubylibprefix)/$(arch)
 rubylibprefix = $(libdir)/$(RUBY_BASE_NAME)
@@ -90,8 +90,8 @@ INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir
 DEFS     = 
 CPPFLAGS = -DRACC_INFO_VERSION=1.8.1 -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT $(DEFS) $(cppflags)
 CXXFLAGS = $(CCDLFLAGS) -fdeclspec $(ARCH_FLAG)
-ldflags  = -L. -fstack-protector-strong
-dldflags = -Wl,-multiply_defined,suppress -Wl,-undefined,dynamic_lookup 
+ldflags  = -L. -fstack-protector-strong -L/opt/homebrew/opt/gmp/lib
+dldflags = -L/opt/homebrew/opt/gmp/lib -Wl,-undefined,dynamic_lookup 
 ARCH_FLAG = -arch arm64
 DLDFLAGS = $(ldflags) $(dldflags) $(ARCH_FLAG)
 LDSHARED = $(CC) -dynamic -bundle
@@ -106,7 +106,7 @@ RUBY_VERSION_NAME = $(RUBY_BASE_NAME)-$(ruby_version)
 RUBYW_BASE_NAME = rubyw
 RUBY_BASE_NAME = ruby
 
-arch = arm64-darwin22
+arch = arm64-darwin24
 sitearch = $(arch)
 ruby_version = 3.3.0
 ruby = $(bindir)/$(RUBY_BASE_NAME)

@@ -10,16 +10,16 @@ checking for cpuid.h... no
 creating Makefile
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.13.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250822-10610-bq5uvi sitelibdir\=./.gem.20250822-10610-bq5uvi clean
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-rx6fu9 sitelibdir\=./.gem.20251024-18888-rx6fu9 clean
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.13.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250822-10610-bq5uvi sitelibdir\=./.gem.20250822-10610-bq5uvi
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-rx6fu9 sitelibdir\=./.gem.20251024-18888-rx6fu9
 compiling parser.c
 linking shared-object json/ext/parser.bundle
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.13.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250822-10610-bq5uvi sitelibdir\=./.gem.20250822-10610-bq5uvi install
-/usr/bin/install -c -m 0755 parser.bundle ./.gem.20250822-10610-bq5uvi/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-rx6fu9 sitelibdir\=./.gem.20251024-18888-rx6fu9 install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20251024-18888-rx6fu9/json/ext
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.13.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250822-10610-bq5uvi sitelibdir\=./.gem.20250822-10610-bq5uvi clean
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-rx6fu9 sitelibdir\=./.gem.20251024-18888-rx6fu9 clean

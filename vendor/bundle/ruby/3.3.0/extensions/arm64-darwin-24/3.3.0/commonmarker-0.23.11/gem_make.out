@@ -3,10 +3,10 @@ current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/ven
 creating Makefile
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.11/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-z2owqm sitelibdir\=./.gem.20250822-8601-z2owqm clean
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-fehkfl sitelibdir\=./.gem.20251024-18888-fehkfl clean
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.11/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-z2owqm sitelibdir\=./.gem.20250822-8601-z2owqm
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-fehkfl sitelibdir\=./.gem.20251024-18888-fehkfl
 compiling arena.c
 compiling autolink.c
 compiling blocks.c
@@ -83,8 +83,8 @@ compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.11/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-z2owqm sitelibdir\=./.gem.20250822-8601-z2owqm install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20250822-8601-z2owqm/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-fehkfl sitelibdir\=./.gem.20251024-18888-fehkfl install
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20251024-18888-fehkfl/commonmarker
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.11/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-z2owqm sitelibdir\=./.gem.20250822-8601-z2owqm clean
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-fehkfl sitelibdir\=./.gem.20251024-18888-fehkfl clean

@@ -278,22 +278,22 @@ conftest.c:16:13: error: expected identifier or '('
 /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
   165 | # define finite(x) isfinite(x)
       |                    ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:7: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:7: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |       ^
 conftest.c:16:13: error: expected ')'
 /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
   165 | # define finite(x) isfinite(x)
       |                    ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:7: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:7: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |       ^
 conftest.c:16:13: note: to match this '('
 /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
   165 | # define finite(x) isfinite(x)
       |                    ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:5: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:5: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |     ^
 conftest.c:17:15: error: expected expression
    17 | int t(void) { finite(); return 0; }
@@ -301,36 +301,36 @@ conftest.c:17:15: error: expected expression
 /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
   165 | # define finite(x) isfinite(x)
       |                    ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:15: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:15: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |               ^
 conftest.c:17:15: error: expected expression
 /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
   165 | # define finite(x) isfinite(x)
       |                    ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:65: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:65: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |                                                                 ^
 conftest.c:17:15: error: expected expression
 /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
   165 | # define finite(x) isfinite(x)
       |                    ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:162:15: note: expanded from macro 'isfinite'
-  162 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:171:15: note: expanded from macro 'isfinite'
+  171 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
       |               ^
 conftest.c:17:15: error: expected expression
 /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
   165 | # define finite(x) isfinite(x)
       |                    ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:162:66: note: expanded from macro 'isfinite'
-  162 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:171:66: note: expanded from macro 'isfinite'
+  171 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
       |                                                                  ^
 conftest.c:17:15: error: expected expression
 /Users/danaemetaxa/.rbenv/versions/3.3.0/include/ruby-3.3.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
   165 | # define finite(x) isfinite(x)
       |                    ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:163:71: note: expanded from macro 'isfinite'
-  163 |                                   : __inline_isfinitel((long double)(x)))
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:172:71: note: expanded from macro 'isfinite'
+  172 |                                   : __inline_isfinitel((long double)(x)))
       |                                                                       ^
 7 errors generated.
 checked program was:
@@ -387,38 +387,38 @@ DYLD_LIBRARY_PATH=.:/Users/danaemetaxa/.rbenv/versions/3.3.0/lib "clang -o conft
 conftest.c:16:13: error: expected identifier or '('
    16 | extern void isfinite();
       |             ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:7: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:7: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |       ^
 conftest.c:16:13: error: expected ')'
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:7: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:7: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |       ^
 conftest.c:16:13: note: to match this '('
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:5: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:5: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |     ^
 conftest.c:17:15: error: expected expression
    17 | int t(void) { isfinite(); return 0; }
       |               ^
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:15: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:15: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |               ^
 conftest.c:17:15: error: expected expression
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:161:65: note: expanded from macro 'isfinite'
-  161 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:170:65: note: expanded from macro 'isfinite'
+  170 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
       |                                                                 ^
 conftest.c:17:15: error: expected expression
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:162:15: note: expanded from macro 'isfinite'
-  162 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:171:15: note: expanded from macro 'isfinite'
+  171 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
       |               ^
 conftest.c:17:15: error: expected expression
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:162:66: note: expanded from macro 'isfinite'
-  162 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:171:66: note: expanded from macro 'isfinite'
+  171 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
       |                                                                  ^
 conftest.c:17:15: error: expected expression
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:163:71: note: expanded from macro 'isfinite'
-  163 |                                   : __inline_isfinitel((long double)(x)))
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:172:71: note: expanded from macro 'isfinite'
+  172 |                                   : __inline_isfinitel((long double)(x)))
       |                                                                       ^
 7 errors generated.
 checked program was:

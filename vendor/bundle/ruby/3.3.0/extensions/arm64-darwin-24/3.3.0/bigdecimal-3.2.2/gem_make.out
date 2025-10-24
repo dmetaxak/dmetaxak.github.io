@@ -26,17 +26,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-1c88p5 sitelibdir\=./.gem.20250822-8601-1c88p5 clean
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-jm1b7z sitelibdir\=./.gem.20251024-18888-jm1b7z clean
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-1c88p5 sitelibdir\=./.gem.20250822-8601-1c88p5
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-jm1b7z sitelibdir\=./.gem.20251024-18888-jm1b7z
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.bundle
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-1c88p5 sitelibdir\=./.gem.20250822-8601-1c88p5 install
-/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20250822-8601-1c88p5
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-jm1b7z sitelibdir\=./.gem.20251024-18888-jm1b7z install
+/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20251024-18888-jm1b7z
 
 current directory: /Users/danaemetaxa/Documents/workspace/dmetaxak.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250822-8601-1c88p5 sitelibdir\=./.gem.20250822-8601-1c88p5 clean
+make DESTDIR\= sitearchdir\=./.gem.20251024-18888-jm1b7z sitelibdir\=./.gem.20251024-18888-jm1b7z clean
