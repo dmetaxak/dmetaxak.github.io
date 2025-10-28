@@ -31,7 +31,7 @@ Prior to joining Penn, Dr. Metaxa received a Ph.D. in [Computer Science][stanfor
 - [Mialy Rasetarinera][mialy], PhD student (co-advised with Konrad Kording)
 
 [emma]: http://emmalurie.github.io
-[alejandra]: https://github.com/aregla
+[alejandra]: https://alejandraregla.com
 [ro]: http://roencarnacion.com
 [psamp]: https://psamp.github.io
 [kat]: https://ek8terina.github.io/opossum_girlie/
