@@ -4,7 +4,7 @@ layout: home
 
 My name is Danaé Metaxa, and I am the Raj and Neera Singh Term Assistant Professor at the University of Pennsylvania in the [Computer and Information Science department][penncis], with a secondary appointment in the [Annenberg School for Communication][pennasc]. I am the co-founder of the [Penn HCI group][pennhci], and serve as Faculty Advisor to Penn's [Center for Media, Technology, and Democracy][center].
 
-My group conducts audits and evaluations of sociotechnical systems, in particular focusing on high-stakes domains like poltiics, employment, law and policy, and personalized advertising. 
+My group conducts **audits and evaluations of sociotechnical systems**, in particular focusing on high-stakes domains like poltiics, employment, law and policy, and personalized advertising. 
 <!-- In their research, Dr. Metaxa studies **bias and representation in algorithmic systems and content**, focusing on high-stakes social settings like politics, employment, and advertising, and on marginalized groups.  -->
 <!-- Recently, their group has been developing [**sociotechnical auditing**][sta], an algorithm/AI auditing method that combines traditional auditing with user-centered behavioral science interventions, to understand how algorithmic systems and their end users impact each other. -->
 
