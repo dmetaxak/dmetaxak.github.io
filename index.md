@@ -26,8 +26,8 @@ Prior to joining Penn, I received my Ph.D. in [Computer Science][stanfordCS] at 
 ### PhD Students and Postdocs
 - [Emma Lurie][emma], Postdoctoral scholar
 - [Alejandra Regla-Vargas][alejandra], Postdoctoral scholar
+- [Stephanie Wang][steph], PhD candidate
 - [Ro Encarnación][ro], PhD student
-- [Stephanie Wang][steph], PhD student
 - [Princess Sampson][psamp], PhD student
 - [Mialy Rasetarinera][mialy], PhD student
 
