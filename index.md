@@ -28,13 +28,11 @@ Prior to joining Penn, I received my Ph.D. in [Computer Science][stanfordCS] at 
 - [Alejandra Regla-Vargas][alejandra], Postdoctoral scholar
 - [Stephanie Wang][steph], PhD candidate
 - [Ro Encarnación][ro], PhD student
-- [Princess Sampson][psamp], PhD student
 - [Mialy Rasetarinera][mialy], PhD student
 
 [emma]: http://emmalurie.github.io
 [alejandra]: https://alejandraregla.com
 [ro]: http://roencarnacion.com
-[psamp]: https://psamp.github.io
 [kat]: https://ek8terina.github.io/opossum_girlie/
 [steph]: https://steph-w.github.io
 [mialy]: https://mialynr.github.io/
