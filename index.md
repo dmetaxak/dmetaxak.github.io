@@ -28,13 +28,11 @@ Prior to joining Penn, I received my Ph.D. in [Computer Science][stanfordCS] at 
 - [Alejandra Regla-Vargas][alejandra], Postdoctoral scholar
 - [Stephanie Wang][steph], PhD candidate
 - [Ro Encarnación][ro], PhD student
-- [Princess Sampson][psamp], PhD student
 - [Mialy Rasetarinera][mialy], PhD student
 
 [emma]: http://emmalurie.github.io
 [alejandra]: https://alejandraregla.com
 [ro]: http://roencarnacion.com
-[psamp]: https://psamp.github.io
 [kat]: https://ek8terina.github.io/opossum_girlie/
 [steph]: https://steph-w.github.io
 [mialy]: https://mialynr.github.io/
@@ -68,7 +66,7 @@ If you're a student (at Penn or elsewhere) with a question related to my teachin
 
 ### Teaching
 
-<!-- **Sp 2025** - [CIS700: Algorithmic Justice][cis700_25] -->
+**Fa 2026** - [CIS700: Algorithmic Justice][cis700_26]
 
 **Sp 2026** - [CIS700: Foundations and Frontiers in HCI][fnf_26]
 
@@ -86,8 +84,8 @@ If you're a student (at Penn or elsewhere) with a question related to my teachin
 
 **Sp 2021** - [CS347: Human-Computer Interaction Research][cs347] (co-taught with Parastoo Abtahi)
 
+[cis700_26]:https://docs.google.com/document/d/14SfHz6qBrC6NjRc4m8f7KLOpJDVS3LpNIawEi-Gbzvw/edit?usp=sharing
 [fnf_26]:https://penn-hci.github.io/cis7000-sp26/
-[cis700_25]:https://docs.google.com/spreadsheets/d/1iD4j27JKfEcvhecidtQKUFVeMrW2UzrfRI8-H7QQu_4/edit?gid=1902374107#gid=1902374107
 [cis700_24]:https://docs.google.com/spreadsheets/d/1kdrDQTz_6gQfD3v3UMSMkoAS2DanxyZDTqcP59C024o/edit#gid=1882189647
 [cis700_23]:https://docs.google.com/spreadsheets/d/1YltJ1qnpPjovlEPOut8ctjXt_kyHSEWfpcX8lAddmKI/edit#gid=565474215
 [cis412_new]: http://cis4120.seas.upenn.edu
