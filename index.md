@@ -37,12 +37,11 @@ Prior to joining Penn, I received my Ph.D. in [Computer Science][stanfordCS] at 
 [steph]: https://steph-w.github.io
 [mialy]: https://mialynr.github.io/
 
-### Other Students 
-I also work closely with a number of other students, including:
-- [Luis Morales-Navarro][luis], Penn Graduate School of Education PhD student
+### Friends of the Group
+I also work closely with a number of other PhD students and postdocs (in addition to many undergrad and Master's students), including:
+- [Luis Morales-Navarro][luis], Penn GSE PhD '26 and Postdoc at Aarhus University
 - [Daniel J. Noh][daniel], Penn Graduate School of Education PhD student
 - [Lena Armstrong][lena], Penn '23 and Harvard CS PhD student
-- [Kowe Kadoma][kowe], Cornell Tech Information Science PhD student
 - [Victor Ojewale][victor], Brown University Computer Science PhD student
 
 
@@ -85,6 +84,7 @@ If you're a student (at Penn or elsewhere) with a question related to my teachin
 **Sp 2021** - [CS347: Human-Computer Interaction Research][cs347] (co-taught with Parastoo Abtahi)
 
 [cis700_26]:https://docs.google.com/document/d/14SfHz6qBrC6NjRc4m8f7KLOpJDVS3LpNIawEi-Gbzvw/edit?usp=sharing
+[cis700_25]:https://docs.google.com/spreadsheets/d/1iD4j27JKfEcvhecidtQKUFVeMrW2UzrfRI8-H7QQu_4/edit?gid=1902374107#gid=1902374107
 [fnf_26]:https://penn-hci.github.io/cis7000-sp26/
 [cis700_24]:https://docs.google.com/spreadsheets/d/1kdrDQTz_6gQfD3v3UMSMkoAS2DanxyZDTqcP59C024o/edit#gid=1882189647
 [cis700_23]:https://docs.google.com/spreadsheets/d/1YltJ1qnpPjovlEPOut8ctjXt_kyHSEWfpcX8lAddmKI/edit#gid=565474215
