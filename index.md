@@ -37,7 +37,7 @@ Prior to joining Penn, I received my Ph.D. in [Computer Science][stanfordCS] at 
 [steph]: https://steph-w.github.io
 [mialy]: https://mialynr.github.io/
 
-### Friends of the Group
+### Other Students
 I also work closely with a number of other PhD students and postdocs (in addition to many undergrad and Master's students), including:
 - [Luis Morales-Navarro][luis], Penn GSE PhD '26 and Postdoc at Aarhus University
 - [Daniel J. Noh][daniel], Penn Graduate School of Education PhD student

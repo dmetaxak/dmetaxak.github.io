@@ -5,7 +5,7 @@ title: FAQ
 
 # DM's Frequently Asked Questions
 
-I don't have time to respond individually to every email I receive, but do receive many emails on the same topics --- so here's a page of frequently asked questions to spare your time and my inbox. Apologies in advance that I won't respond to emails answered by the below (but if your question isn't answered, do reach out!) -DM
+I don't have time to respond individually to every email I receive, but do receive many emails on the same topics --- so here's a page of frequently asked questions to spare your time and my inbox. Apologies in advance that I won't respond to emails answered by the below (but if your question isn't answered, do reach out!) 
 
 ## Research-related
 
@@ -26,7 +26,7 @@ Yes, there are always opportunities to contribute to research! Reach out to me o
 If you do email, mention that you've read this FAQ. I'm much more likely to read your communications if it's clear you've read mine.
 
 ### I'm a high school student who would like to work in your lab. Is that possible?
-I do not take students below the college level (in age _and_ educational experience) in our research. Thank you for your interest, and feel free to reach out in the future! This firm policy means I will delete any emails I get from high schoolers, since it's clear the ones who do email me are are not interested enough to have done their due diligence.
+I do not take students below the college level (in age _and_ educational experience) in our research. Thank you for your interest, and feel free to reach out in the future. This firm policy means I will delete any emails I get from high schoolers, since it's clear the ones who do email me have not bothered to read this.
 
 ### When is the best time to reach out if I'm interested in doing a summer PhD internship in your group? 
 Please reach out the winter (say, January or February) of the year you're interested in doing the internship. I get a lot of requests in May and June, at which point summer has already started (or is about to), projects have been planned, and the budget has been budgeted. 
@@ -41,6 +41,6 @@ My understanding of undergraduate/Master's course enrollment (while admittedly r
 ### I'm a student (or recent graduate) working on a startup. Can I get your advice or advising about it?
 Unless it's directly related to one of my publications, or you're offering me a consulting salary, it's gonna be a no from me. Best of luck! 
 
-## P.S. An important note about equity
+### P.S. An important note about equity
 
 I know very well (both firsthand and through research published on this topic) that the above messaging is likely to stick more for some people than others. More specifically, those coming from less privileged backgrounds (in terms of gender, race, socioeconomics, etc.) are likely to be more dissuaded from reaching out, while others are more likely to ignore the above and email me anyway. If you're on the fence about whether to email me, and you come from one of those underrepresented groups, just go ahead and send the email :) 
