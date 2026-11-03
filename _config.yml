@@ -10,23 +10,12 @@ kramdown:
     enable_coderay: false
     auto_ids: false
     entity_output: symbolic
-highlighter: rouge
 
 exclude:
-    - bower_components
-    - node_modules
-    - package.json
-    - bower.json
-    - drafts
+    - README.md
+    - Gemfile
+    - Gemfile.lock
     - vendor
-
-navigation:
-    - title: about
-      link: /index.html
-    - title: research
-      link: /research.html
-    - title: CV
-      link: /content/CV.pdf
 
 theme: jekyll-theme-minimal
 
